@@ -1,0 +1,142 @@
+/Users/louliyuan/PycharmProjects/PythonProject/.venv/bin/python /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/back_intersection.py
+Found 6 image files to process:
+  - /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/相机检校数据/2-40-g11-k1-001.txt
+  - /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/相机检校数据/2-40-g11-k1-002.txt
+  - /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/相机检校数据/2-40-g11-k1-003.txt
+  - /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/相机检校数据/2-40-g11-k1-004.txt
+  - /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/相机检校数据/2-40-g11-k1-005.txt
+  - /Users/louliyuan/PycharmProjects/PythonProject/Camera_Check/相机检校数据/2-40-g11-k1-006.txt
+--- Iteration 1 ---
+Max Correction: 9.30e+02
+Updated f: 118.8900, x0: 0.1995, y0: -7.3729
+Updated Xs[0]: 2688.543, Ys[0]: 206.491, Zs[0]: -5096.303
+Updated phi[0] (rad): 0.000717, omega[0] (rad): 0.000677, kappa[0] (rad): 0.009143
+--- Iteration 2 ---
+Max Correction: 1.43e+02
+Updated f: 232.8260, x0: -0.7510, y0: -24.9959
+Updated Xs[0]: 2720.134, Ys[0]: 195.759, Zs[0]: -4957.397
+Updated phi[0] (rad): 0.005194, omega[0] (rad): 0.004586, kappa[0] (rad): 0.041352
+--- Iteration 3 ---
+Max Correction: 2.69e+02
+Updated f: 428.3936, x0: -33.0609, y0: -124.1655
+Updated Xs[0]: 2773.715, Ys[0]: 196.447, Zs[0]: -4688.520
+Updated phi[0] (rad): 0.098828, omega[0] (rad): 0.086114, kappa[0] (rad): 0.415595
+--- Iteration 4 ---
+Max Correction: 6.34e+02
+Updated f: 719.3684, x0: -55.7425, y0: 478.8792
+Updated Xs[0]: 2215.480, Ys[0]: 830.101, Zs[0]: -4174.497
+Updated phi[0] (rad): 0.104727, omega[0] (rad): -0.225972, kappa[0] (rad): 0.230406
+--- Iteration 5 ---
+Max Correction: 8.27e+02
+Updated f: 1365.4029, x0: -143.7573, y0: 347.1180
+Updated Xs[0]: 2649.464, Ys[0]: 1106.367, Zs[0]: -3462.575
+Updated phi[0] (rad): -0.061809, omega[0] (rad): -0.309569, kappa[0] (rad): -0.093148
+--- Iteration 6 ---
+Max Correction: 1.19e+03
+Updated f: 2279.6819, x0: -195.4296, y0: 91.3499
+Updated Xs[0]: 2881.448, Ys[0]: 946.352, Zs[0]: -2295.822
+Updated phi[0] (rad): -0.183545, omega[0] (rad): -0.209174, kappa[0] (rad): -0.143294
+--- Iteration 7 ---
+Max Correction: 1.28e+03
+Updated f: 3365.7800, x0: -198.5178, y0: -135.9024
+Updated Xs[0]: 3474.728, Ys[0]: 401.800, Zs[0]: -1092.846
+Updated phi[0] (rad): -0.273236, omega[0] (rad): -0.052243, kappa[0] (rad): -0.110989
+--- Iteration 8 ---
+Max Correction: 9.25e+02
+Updated f: 4256.9208, x0: -67.1864, y0: -109.8021
+Updated Xs[0]: 4117.101, Ys[0]: -66.075, Zs[0]: -439.251
+Updated phi[0] (rad): -0.304151, omega[0] (rad): 0.036362, kappa[0] (rad): -0.087393
+--- Iteration 9 ---
+Max Correction: 2.76e+02
+Updated f: 4533.1501, x0: 38.3862, y0: -0.0738
+Updated Xs[0]: 4303.509, Ys[0]: -144.437, Zs[0]: -301.714
+Updated phi[0] (rad): -0.302192, omega[0] (rad): 0.061050, kappa[0] (rad): -0.086495
+--- Iteration 10 ---
+Max Correction: 1.55e+01
+Updated f: 4547.9998, x0: 47.4845, y0: 11.9244
+Updated Xs[0]: 4310.568, Ys[0]: -145.315, Zs[0]: -295.124
+Updated phi[0] (rad): -0.301618, omega[0] (rad): 0.062143, kappa[0] (rad): -0.086801
+--- Iteration 11 ---
+Max Correction: 1.92e-01
+Updated f: 4547.9273, x0: 47.5483, y0: 11.8878
+Updated Xs[0]: 4310.428, Ys[0]: -145.343, Zs[0]: -295.227
+Updated phi[0] (rad): -0.301583, omega[0] (rad): 0.062139, kappa[0] (rad): -0.086802
+--- Iteration 12 ---
+Max Correction: 1.52e-03
+Updated f: 4547.9272, x0: 47.5468, y0: 11.8881
+Updated Xs[0]: 4310.428, Ys[0]: -145.343, Zs[0]: -295.227
+Updated phi[0] (rad): -0.301584, omega[0] (rad): 0.062139, kappa[0] (rad): -0.086802
+--- Iteration 13 ---
+Max Correction: 3.21e-05
+Updated f: 4547.9272, x0: 47.5468, y0: 11.8881
+Updated Xs[0]: 4310.428, Ys[0]: -145.343, Zs[0]: -295.227
+Updated phi[0] (rad): -0.301584, omega[0] (rad): 0.062139, kappa[0] (rad): -0.086802
+--- Iteration 14 ---
+Max Correction: 5.29e-07
+Updated f: 4547.9272, x0: 47.5468, y0: 11.8881
+Updated Xs[0]: 4310.428, Ys[0]: -145.343, Zs[0]: -295.227
+Updated phi[0] (rad): -0.301584, omega[0] (rad): 0.062139, kappa[0] (rad): -0.086802
+--- Iteration 15 ---
+Max Correction: 7.05e-09
+Updated f: 4547.9272, x0: 47.5468, y0: 11.8881
+Updated Xs[0]: 4310.428, Ys[0]: -145.343, Zs[0]: -295.227
+Updated phi[0] (rad): -0.301584, omega[0] (rad): 0.062139, kappa[0] (rad): -0.086802
+
+Converged after 15 iterations. Maximum correction: 7.05e-09
+
+--- Final Results (15 iterations) ---
+Converged after 15 iterations. Sigma0: 0.162695
+
+Shared Intrinsic Parameters:
+  f  :  4547.927194 +/- 2.737136e-01
+  x0 :    47.546783 +/- 4.076919e-01
+  y0 :    11.888067 +/- 2.924763e-01
+  k1 :     0.000000 +/- 9.227932e-12
+  k2 :    -0.000000 +/- 1.195842e-18
+  p1 :     0.000000 +/- 6.771961e-09
+  p2 :    -0.000000 +/- 4.776753e-09
+
+Exterior Orientation Parameters (per image):
+  Image 1:
+    Xs     :  4310.428430 +/- 1.994798e-01 m
+    Ys     :  -145.343069 +/- 1.904744e-01 m
+    Zs     :  -295.227409 +/- 2.994245e-01 m
+    phi    :   -17.279476 +/- 5.249780e-03 deg
+    omega  :     3.560296 +/- 3.888113e-03 deg
+    kappa  :    -4.973372 +/- 8.468978e-04 deg
+  Image 2:
+    Xs     :  4079.394505 +/- 1.904837e-01 m
+    Ys     :  -145.175942 +/- 1.878933e-01 m
+    Zs     :  -298.327505 +/- 3.014522e-01 m
+    phi    :   -12.115995 +/- 5.244136e-03 deg
+    omega  :     3.492404 +/- 3.885341e-03 deg
+    kappa  :    -4.890318 +/- 8.291614e-04 deg
+  Image 3:
+    Xs     :  3381.659224 +/- 1.963201e-01 m
+    Ys     :  -145.634737 +/- 2.092172e-01 m
+    Zs     :    87.243849 +/- 3.258612e-01 m
+    phi    :    -0.590335 +/- 5.269724e-03 deg
+    omega  :     3.551385 +/- 3.947523e-03 deg
+    kappa  :    -5.082627 +/- 9.073771e-04 deg
+  Image 4:
+    Xs     :  3373.434967 +/- 1.965133e-01 m
+    Ys     :  -141.558017 +/- 2.103054e-01 m
+    Zs     :    92.792703 +/- 3.260276e-01 m
+    phi    :    -0.689688 +/- 5.265209e-03 deg
+    omega  :     5.726275 +/- 3.975291e-03 deg
+    kappa  :    -2.349488 +/- 9.680889e-04 deg
+  Image 5:
+    Xs     :   796.577110 +/- 1.898657e-01 m
+    Ys     :  -141.398574 +/- 1.894609e-01 m
+    Zs     :    -5.913500 +/- 3.170982e-01 m
+    phi    :    13.518462 +/- 5.370491e-03 deg
+    omega  :     5.853301 +/- 4.019050e-03 deg
+    kappa  :    -2.362232 +/- 9.753970e-04 deg
+  Image 6:
+    Xs     :   753.888483 +/- 1.828999e-01 m
+    Ys     :  -141.004910 +/- 1.768382e-01 m
+    Zs     :  -191.160153 +/- 3.024507e-01 m
+    phi    :     8.932702 +/- 5.503422e-03 deg
+    omega  :     5.662511 +/- 3.998466e-03 deg
+    kappa  :    -2.488433 +/- 9.506522e-04 deg
+
