@@ -1,28 +1,24 @@
-# camera_calibration
+# 📷 Camera Calibration Tool / 相机检校程序
 
-@author: 娄力源LLY
+Author: 娄力源 (LLY)  
+Environment: Python 3.13  
+IDE: PyCharm
 
-@ Programming Environment
+---
 
-@English Version
-This camera calibration program was developed and executed within a Python 3.13 environment.
-The core computations and data handling rely on several key open-source libraries:
-@note NumPy
-@note Pandas
-@note Standard Python Libraries: Math, OS
+## 📖 Description / 项目简介
 
-The development occurred in an Integrated Development Environment (IDE) common for Python: PyCharm
+**English**  
+This camera calibration program is developed in Python 3.13. It leverages widely-used open-source libraries such as NumPy and Pandas for numerical and data handling tasks. The program runs in a standard Python development environment (PyCharm IDE) and does **not** depend on any proprietary or complex libraries, ensuring ease of use and reproducibility.
 
-No specialized or proprietary libraries were required, making the environment easily reproducible.
-The library versions used would ideally be recent stable releases at the time of development to ensure compatibility and access to current features,
-though the code primarily relies on long-standing functionalities of these libraries.
+**中文**  
+本相机检校程序在 Python 3.13 环境下开发，使用了如 NumPy 和 Pandas 等主流开源库进行数值计算与数据处理。程序基于 PyCharm IDE 开发，不依赖专有库，环境复现性强，便于移植与使用。
 
-@Chinese Version
-此相机检校程序在 Python 3.13 环境下开发和执行。其核心计算和数据处理依赖于几个关键的开源库：
-@note NumPy
-@note Pandas
-@note Standard Python Libraries: Math, OS
+---
 
-该程序在Python 集成开发环境（IDE）中开发的--PyCharm
-该程序不依赖任何专门的或专有的库，因此环境易于复现。
-所使用的库版本理想情况下应为开发时的最新稳定版本，以确保兼容性并能使用最新功能，尽管代码主要依赖于这些库的长期稳定功能。
+## ⚙️ Dependencies / 项目依赖
+
+The following libraries are required:
+
+```bash
+pip install numpy pandas
